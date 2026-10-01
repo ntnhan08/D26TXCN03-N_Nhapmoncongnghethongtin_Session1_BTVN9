@@ -39,15 +39,11 @@ Có thể xử lý theo quy trình:
 
 Bước 1: Dung lượng mỗi đơn
 
-Mỗi đơn có 2 ảnh, mỗi ảnh 3 MB:
-
-2 × 3 \= 6 MB/đơn
+Mỗi đơn có 2 ảnh, mỗi ảnh 3 MB: 2 × 3 \= 6 MB/đơn
 
 Bước 2: Dung lượng mỗi ngày
 
-Có 50.000 đơn/ngày:
-
-50.000 × 6 \= 300.000 MB/ngày
+Có 50.000 đơn/ngày: 50.000 × 6 \= 300.000 MB/ngày
 
 Bước 3: Dung lượng 30 ngày
 
@@ -55,9 +51,7 @@ Bước 3: Dung lượng 30 ngày
 
 Bước 4: Đổi sang GB
 
-Theo hệ số 1024:
-
-9.000.000 ÷ 1024 ≈ 8.789,06 GB
+Theo hệ số 1024: 9.000.000 ÷ 1024 ≈ 8.789,06 GB
 
 Bước 5: Đổi sang TB
 
